@@ -1,0 +1,7 @@
+[project]
+name = "zakat-py-mudaraba-profit-split"
+version = "1.0.0"
+description = "Mudaraba & Diminishing Musharaka Profit/Loss Waterfall Engine (موزع أرباح المضاربة والمشاركة المتناقصة الشرعية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
